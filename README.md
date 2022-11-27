@@ -15,7 +15,7 @@
   Clone this repo and launch the index.html file in your browser.
   
   ## Live Demo
-  Click here to see this pacman mayhem in action on my website. 
+  Click **[here](https://mike-veilleux.github.io/exercises/pacman-exercise/index.html)** to see this pacman mayhem in action on my website. 
   
   ## Roadmap
   There are many upgrades possible for this project. Here's a few on my mind:
