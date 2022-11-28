@@ -25,4 +25,4 @@
   - Wall collision animation
   
   ## Licensing
-  This project is under MIT license. Read more **[here](https://github.com/Mike-Veilleux/pacman-exercise/blob/main/LICENSE)**
+  This project is under MIT license. Read more **[here](https://github.com/Mike-Veilleux/pacman-exercise/blob/main/LICENSE)**...
